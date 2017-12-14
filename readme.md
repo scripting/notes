@@ -6,7 +6,7 @@ I'm not sure why saving stuff to GitHub is a good idea. But it has a host of fea
 
 For me, the first step in such an exploration is to make it as easy for me to write on GitHub as it is in any other enivornment I write for. Here's a list of them..
 
-1. My blog.
+1. <a href="http://scripting.com/">My blog</a>.
 
 2. Facebook.
 
@@ -16,7 +16,9 @@ For me, the first step in such an exploration is to make it as easy for me to wr
 
 5. Messages.
 
-6. ??
+6. Issues (on GitHub).
+
+7. ??
 
 This is my first GitHub note! :-)
 
