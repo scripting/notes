@@ -1,3 +1,5 @@
+## GitHub as a notepad
+
 This is a place where I jot down notes using my outliner to save stuff in GitHub. 
 
 I'm not sure why saving stuff to GitHub is a good idea. But it has a host of features no other writing environment has. Maybe some of that will prove useful?
